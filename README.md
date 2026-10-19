@@ -11,3 +11,14 @@ This project evidentiates how an STM32 Development Board can, with the help of a
 - Amplifier         : N/A
 - Speakers          :
 
+## License
+
+Copyright © 2026 Tudor Macovei. All Rights Reserved.
+
+This project is publicly available for viewing and
+educational reference only.
+
+Unauthorized copying, modification, distribution,
+or use of the source code is prohibited.
+
+See [LICENSE](LICENSE) for details.
