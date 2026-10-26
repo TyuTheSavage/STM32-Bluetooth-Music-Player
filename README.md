@@ -14,7 +14,7 @@ The workflow is as follows: a phone or Bluetooth capable device connects to the 
 
 ## License
 
-Copyright © 2026 Tudor Macovei. All Rights Reserved.
+Copyright © 2026 UNITBV. All Rights Reserved.
 
 This project is publicly available for viewing and
 educational reference only.
