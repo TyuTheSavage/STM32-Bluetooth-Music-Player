@@ -4,12 +4,12 @@
 ### About
 This project evidentiates how an STM32 Development Board can, with the help of a Bluetooth Module, play music to external speakers.
 
-- Board             :
-- Bluetooth Module  :
-- Screen            :
-- LEDs              :
+- Board             : Arduino Nano R3 & ESP32wroom32
+- Bluetooth Module  : -
+- Screen            : Oled
+- LEDs              : - 
 - Amplifier         : N/A
-- Speakers          :
+- Speakers          : 3W 8ohm
 
 ## License
 
